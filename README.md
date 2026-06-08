@@ -60,7 +60,7 @@ This it is Just The Keyspace_Start of The Full Rang According to Your Bit-lengh 
 
 9 ) ) -  ADDER CHOOSE ( approx ) Write it & Press Enter
 
-────────────────────────────────────────────────────────────
+---
 
 Select [adder] choose ---> : approx <── Choose
 
@@ -72,7 +72,7 @@ Select [adder] choose ---> : approx <── Choose
 
 10 ) ) -  ERROR ENCODING  (Regev / Regev+IPE only)
 
-────────────────────────────────────────────────────────────
+---
 
 Select [cat] Choose cat Write it & Press Entre  ---> : cat
 
@@ -84,7 +84,7 @@ Select [cat] Choose cat Write it & Press Entre  ---> : cat
 
 11 ) ) -  SDK
 
-────────────────────────────────────────────────────────────
+---
 
   [qiskit]  Qiskit (default)
   
