@@ -158,5 +158,5 @@ DM me Here Please -> 1NEJcwfcEm7Aax8oJNjRUnY3hEavCjNrai / 1Bu4CR8Bi5AXQG8pnu1avn
 <img width="687" height="431" alt="Basic Fast Configs" src="https://raw.githubusercontent.com/threealgos/Quantum-RegeV-Cracker/refs/heads/main/The_Configs_The_Configurations.png" />
 <img width="687" height="431" alt="Basic Fast Configs" src="https://raw.githubusercontent.com/threealgos/Quantum-RegeV-Cracker/refs/heads/main/infos.png" />
 
-For Rewards & Donations : 1Bu4CR8Bi5AXQG8pnu1avny88C5CCgWKfb / 1NEJcwfcEm7Aax8oJNjRUnY3hEavCjNrai .
+For Donations & Rewards : 1Bu4CR8Bi5AXQG8pnu1avny88C5CCgWKfb / 1NEJcwfcEm7Aax8oJNjRUnY3hEavCjNrai .
 
