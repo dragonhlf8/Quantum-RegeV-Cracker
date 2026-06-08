@@ -21,7 +21,7 @@ python3 Quantum-RegeV-1920.py
 03 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 02 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-4 ) ) -input Your Target bit length & your exact The bit-lengh For example: 19 
+4 ) ) -input Your Target bit length & your exact Bit-lengh For example: 19 
 (or 16/ 17/ 18 /19/ 20 / ....135)
 
 5 ) ) - Just Press Enter for |auto]
@@ -104,9 +104,14 @@ Select [qiskit/pytket]: qiskit
   - if you choosed qiskit --> Next Write[ ibm ] in The Next Backends inputs.
   - if you choosed pytket --> Next Write[ iqm ] in The Next Backends inputs.
 
-  [aer]     Aer simulator ( You Can Use it But 
-  No Need So Choose ( ibm / iqm ) & Press Enter
+  [aer]     Aer simulator 
+  
+  ( You Can Use it But No Need To Use So instead 
+  
+  Choose Real Hardware ( ibm / iqm )  & Press Enter
+  
   [ibm]     IBM Quantum
+  
   [iqm]     IQM Resonance (pytket-iqm: sirius/garnet/emerald)
 
 Choose --->    Select [aer]: ibm    /   Select [aer]: iqm
