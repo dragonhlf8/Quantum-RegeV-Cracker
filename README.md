@@ -150,7 +150,8 @@ OR You Can Choose Write Your [Backends Name] & Press ENTRE.
 
 https://quantum.cloud.ibm.com/computers
 
-DM Please -> 1NEJcwfcEm7Aax8oJNjRUnY3hEavCjNrai / 1Bu4CR8Bi5AXQG8pnu1avny88C5CCgWKfb
+Hi i-Realy Apperciated you get me Any Donation 
+DM me Here Please -> 1NEJcwfcEm7Aax8oJNjRUnY3hEavCjNrai / 1Bu4CR8Bi5AXQG8pnu1avny88C5CCgWKfb
 
 
 
