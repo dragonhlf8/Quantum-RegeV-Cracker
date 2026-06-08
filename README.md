@@ -26,7 +26,7 @@ python3 Quantum-RegeV-1920.py
 
 5 ) ) - for k_start (hex) [auto]: Just [Press Entre] if you dont know Keyspace
 
-This it is Just The Keyspace Rang According to Your Exact Bit-lengh That You Have Chosen
+This it is Just The Keyspace_Start of The Full Rang According to Your Bit-lengh That You Have Chosen
 
 ────────────────────────────────────────────────────────────
 
@@ -84,7 +84,6 @@ Select [cat] Choose cat Write it & Press Entre  ---> : cat
   
   [pytket]  pytket
   
-(JUSTWrite The One you want ) & press ENTER
 
 Select [qiskit/pytket]: pytket 
 
