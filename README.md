@@ -118,7 +118,7 @@ Select [qiskit/pytket]: qiskit
 Choose --->    Select [aer]: ibm    /   Select [aer]: iqm
 
 
-13 ) ) -  Number of runs (Regev needs d+4 independent samples) Choose [1]: 1 (  Keep it 1  )
+13 ) ) -  Number of runs (Regev needs d+4 independent samples) Choose [1]: 1  <──  (  Keep it 1  )
 
 PASTE YOUR ( IBM /IQM ) API TOKENS:
 
