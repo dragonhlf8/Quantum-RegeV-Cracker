@@ -114,9 +114,9 @@ Select [qiskit/pytket]: qiskit
 
   [ibm]     IBM Quantum
   
-  [iqm]     IQM Resonance (pytket-iqm: sirius/garnet/emerald)
+  [iqm]     IQM Resonance
   
-────────────────────────────────────────────────────────────
+------------------------------------------------------------
    ! LISTEN HERE !
 
   - if you Choosed qiskit --> Next You Choose[ ibm ] in The Next Backends inputs.
@@ -127,7 +127,7 @@ Select [backend]: ibm  <── Write it
 
 / or   Select [backend]: iqm <── Write it
 
-------------------------------------------------------------
+────────────────────────────────────────────────────────────
 
 13 ) ) -  Number of runs (Regev needs d+4 independent samples) Choose [1]: 1  <──  (  Keep it 1  )
 
