@@ -14,7 +14,7 @@ Here is All The Steps :
 python3 Quantum-RegeV-1920.py
 
 
-2 ) ) - For Costume Write --> c 
+2 ) ) - For Costum Write --> c 
 
 3 ) ) - Paste compressed public key
 
