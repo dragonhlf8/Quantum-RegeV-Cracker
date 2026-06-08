@@ -89,7 +89,7 @@ Select [qiskit/pytket]: pytket
 
 Select [qiskit/pytket]: qiskit 
 
-(JUSTWrite The One you want ) & press ENTER
+(  Just Write The One you want  ) & press ENTER
 
 ──────────────────────────────────────────────────────────___──-------------
 
@@ -114,7 +114,7 @@ Select [qiskit/pytket]: qiskit
   
   [iqm]     IQM Resonance (pytket-iqm: sirius/garnet/emerald)
 
-Choose --->    Select [aer]: ibm    /   Select [aer]: iqm
+Choose --->    Select [backend]: ibm     /    Select [backend]: iqm
 
 
 13 ) ) -  Number of runs (Regev needs d+4 independent samples) Choose [1]: 1  <──  (  Keep it 1  )
