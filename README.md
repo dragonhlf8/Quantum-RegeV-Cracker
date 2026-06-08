@@ -17,7 +17,7 @@ Now You Choose [c] for Any Bit-Lengh You Want to Unlock,
 
 2 ) ) - For Costum Write [c] -->  c 
 
-3 ) ) - Paste compressed public key
+3 ) ) - Paste Compressed public key
 
 03XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
