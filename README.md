@@ -13,8 +13,9 @@ Here is All The Steps :
 1 ) ) - Start program With
 python3 Quantum-RegeV-1920.py
 
+Now You Choose [c] for Any Bit-Lengh You Want to Unlock,
 
-2 ) ) - For Costum Write [c] -->  c  <── You Choose C for Any Bit-Lengh You Want to Unlock,
+2 ) ) - For Costum Write [c] -->  c 
 
 3 ) ) - Paste compressed public key
 
@@ -23,20 +24,20 @@ python3 Quantum-RegeV-1920.py
 02XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ------------------------------------------------------------
-4 ) ) &-input Your exact Bit-lengh's Target's bit length For example: 19 
+4 ) )  ── > input Your Exact Bit-lengh's Target's bit length For example: 19 
 (or 16/ 17/ 18 /19/ 20 / ....135)
 
-5 ) ) - for k_start (hex) [auto]: Just [Press Entre] if you dont know Keyspace
+5 ) ) - for k_start (hex) [auto]: Just ── > [Press Entre] if you dont know The Keyspace
 
 This it is Just The Keyspace_Start of The Full Rang According to Your Bit-lengh That You Have Chosen
 
 ────────────────────────────────────────────────────────────
 
-6 ) ) - Number of Shots For Accurate Result  Write : 16384  <── Choose
+6 ) ) - Number of Shots For Accurate Result  Write : 16384  <── Write it
 
 
 7 ) ) - Choose SOLVER [1] Regev + IPE Hybrid (default — recommended)
-1-(Regev + IPE) <── Choose
+1-(Regev + IPE) <── Choose 1
 
 
 8 ) ) - NOW CHOOSE EXACTLY THIS :
@@ -49,8 +50,9 @@ This it is Just The Keyspace_Start of The Full Rang According to Your Bit-lengh 
 
   Enable --> Fibonacci basis-point prep (Ragavan-VV)? [Y/n]: Y <── Choose
 
-  ---> Noise-filter sigma (Ragavan-VV, 0=off) [2.0]: 2.0 
- ( Write 2.0 or Press Entre ) <── Choose
+  ---> Noise-filter sigma (Ragavan-VV, 0=off) [2.0]: 2.0  
+  
+  ──> ( Write 2.0 or Press Entre )
 
 ────────────────────────────────────────────────────────────
 
