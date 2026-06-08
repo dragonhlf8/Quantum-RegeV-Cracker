@@ -9,38 +9,39 @@ Go https://qbraid.com/ Upload The Full_Notebook_Requirements.ipynb
 Than Run All The Cells & Don't Worry About Red Warnings The Notebook will take Some Time When it Finish , Start A Terminal 
 Here is All The Steps :
 
-1) Start program With
+1 ) ) - Start program With
 python3 Quantum-RegeV-1920.py
 
 
-2) For Costume Write --> c 
+2 ) ) - For Costume Write --> c 
 
-3) Paste compressed public key
+3 ) ) - Paste compressed public key
 
 03 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 02 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-4) input Your Target bit length and  your The bit-lengh 
+4 ) ) -input Your Target bit length and  your The bit-lengh 
 (or 16/ 17/ 18 /19/ 20 / ....135)
 
-5) Just Press Enter for |auto]
+5 ) ) - Just Press Enter for |auto]
 
 k_start (hex) [auto]:  [Press Entre]
 
 ────────────────────────────────────────────────────────────
 
-6) Number of Shots For Accurate Result  Write : 16384 
+6 ) ) - Number of Shots For Accurate Result  Write : 16384 
 
 
-7) Choose SOLVER [1] Regev + IPE Hybrid (default — recommended)
+7 ) ) - Choose SOLVER [1] Regev + IPE Hybrid (default — recommended)
 1-(Regev + IPE)
 
 
-8) NOW CHOOSE EXACTLY THIS :
+8 ) ) - NOW CHOOSE EXACTLY THIS :
 
 ────────────────────────────────────────────────────────────
 
   Disable --> HalfGCD modular inversion? [Y/n]: n
+  
   Disable --> Measurement-based uncomputation (MBU)? [Y/n]: n
 
   Enable --> Fibonacci basis-point prep (Ragavan-VV)? [Y/n]: Y
@@ -50,7 +51,7 @@ k_start (hex) [auto]:  [Press Entre]
 
 ────────────────────────────────────────────────────────────
 
-9)  ADDER
+9 ) ) -  ADDER
 
 ────────────────────────────────────────────────────────────
 
@@ -59,7 +60,7 @@ Select [adder] choose ---> : approx (write it & Press Entre)
 
 ────────────────────────────────────────────────────────────
 
-10)  ERROR ENCODING  (Regev / Regev+IPE only)
+10 ) ) -  ERROR ENCODING  (Regev / Regev+IPE only)
 
 ────────────────────────────────────────────────────────────
 
@@ -77,7 +78,7 @@ Select [none] Choose cat Write it & Press Entre  ---> : cat
   
 ────────────────────────────────────────────────────────────
 
-11)  SDK
+11 ) ) -  SDK
 
 ────────────────────────────────────────────────────────────
 
@@ -90,7 +91,7 @@ Select [qiskit/pytket]: qiskit
 
 ──────────────────────────────────────────────────────────___──-------------
 
-12) BACKENDs: Best Machines Worked Fine (ibm/iqm) Don't Worry About WARNINGs
+12 ) ) - BACKENDs: Best Machines Worked Fine (ibm/iqm) Don't Worry About WARNINGs
 
 ──────────────────────────────────────────────────────────____──-----------
 
@@ -107,7 +108,7 @@ Select [qiskit/pytket]: qiskit
 Choose --->    Select [aer]: ibm    /   Select [aer]: iqm
 
 
-13)-  Number of runs (Regev needs d+4 independent samples) Choose [1]: 1
+13 ) ) -  Number of runs (Regev needs d+4 independent samples) Choose [1]: 1
 
 PASTE YOUR ( IBM /IQM ) API TOKENS:
 
@@ -116,8 +117,10 @@ FOR-IQM
 ────────────────────────────────────────────────────────────
 
 IQM token: cL7Kp6KWbIOXdwMGLOWVRcqMRjdfW44RxXlWzo3o554BnqZ4oBh5Qrq2I0cBRTbD
+
 IQM device [garnet / sirius / emerald] Write it : emerald
 For IQM it is done Here.
+
 
 FOR-IBM
 
