@@ -144,9 +144,9 @@ SMALL_PRIMES = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59]
 
 PRESETS = {
     "14":  {"bits":14,  "start":0x2000,
-            "pub":"03b4f1de58b8b41afe9fd4e5ffbdafaeab86c5db4769c15d6e6011ae7351e54759","shots":1280},
+            "pub":"03b4f1de58b8b41afe9fd4e5ffbdafaeab86c5db4769c15d6e6011ae7351e54759","shots":2048},
     "16":  {"bits":16,  "start":0x8000,
-            "pub":"029d8c5d35231d75eb87fd2c5f05f65281ed9573dc41853288c62ee94eb2590b7a","shots":2048},
+            "pub":"029d8c5d35231d75eb87fd2c5f05f65281ed9573dc41853288c62ee94eb2590b7a","shots":4096},
     "17":  {"bits":17,  "start":0x10000,
             "pub":"033f688bae8321b8e02b7e6c0a55c2515fb25ab97d85fda842449f7bfa04e128c3","shots":8192},
     "19":  {"bits":19,  "start":0x40000,
