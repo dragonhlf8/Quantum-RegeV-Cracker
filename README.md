@@ -183,4 +183,5 @@ License
 ==========
 This Project is a Submission for IQM Researchs Award Launched by IQM Quantum Resonance Platform 
 in the Spring of 2026 
-release under [MIT LICENSE](LICENSE.txt)
+
+Release under [MIT LICENSE](LICENSE.txt)
