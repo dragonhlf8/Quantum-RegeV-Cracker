@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  P11-REGEV-ULTIMATE  v3.0  ·  GOOGLE QUANTUM / SCHROTTENLOHER EDITION        ║
+║  REGEV-Quantum-Algorithm v3.0  ·  GOOGLE QUANTUM / SCHROTTENLOHER EDITION    ║
 ║  Hybrid Quantum Regev Multi-Dim + IPE + Shor (Google/Schrottenloher style)   ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║  NEW IN v3 (from Google Quantum AI Mar-2026 + Schrottenloher Jun-2026):       ║
