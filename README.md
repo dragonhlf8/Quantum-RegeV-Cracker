@@ -13,7 +13,7 @@ REGEV + IPE (RECOMMENDED CONFIGs)
 ================================
 Don't Use Google Colab There is Risk you will Get Suspended ! 
 Use Q-braid Platform & Run All Cells & Than Switch To Terminal
-Go Sign Up https://qbraid.com/ Upload The Full_Notebook_Requirements.ipynb
+Go Sign Up [https://qbraid.com/](https://account.qbraid.com/dashboard) Upload The Full_Notebook_Requirements.ipynb
 Than Run All The Cells & Don't Worry About Red Warnings The Notebook will take Some Time When it Finish , Start A Terminal 
 Here is All The Steps :
 
